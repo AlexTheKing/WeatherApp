@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="cities">Города</string>
+    <string name="weather">Погода в %s</string>
+    <string name="temp">Температура: %s</string>
+    <string name="wind">Ветер: %s</string>
+    <string name="humidity">Влажность: %s</string>
+    <string name="pressure_pa">Давление в Па: %s</string>
+    <string name="pressure_mc">Давление в мм рт. ст.: %s</string>
+    <string name="change_city">Изменить город</string>
+</resources>
